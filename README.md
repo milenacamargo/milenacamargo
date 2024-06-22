@@ -14,10 +14,10 @@
 
 ###
 <div align="center">
-	<a href = "linkedin.com/in/milenacamargo20/" target="_blank"><img height="30" widht="40" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href = "https://www.linkedin.com/in/milenacamargo20/" target="_blank"><img height="30" widht="40" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:milenacamrggo20@gmail.com" target="_blank"><img  height="30" widht="40" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/milenacamargo/" target="_blank"><img height="30" widht="40" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="drive.google.com/file/d/1gjEbG4oFJY4thSC8WZn1zkJKgpGxbXii/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1gjEbG4oFJY4thSC8WZn1zkJKgpGxbXii/view" target="_blank">
     <img height="30" widht="40" src="https://img.shields.io/badge/Curriculum-green?style=for-the-badge" alt="Curriculum">
   </a>
 
@@ -29,7 +29,7 @@
 
 ###
 
-<div style = "display: inline_block">
+<div align = "center" style = "display: inline_block">
   <table>
     <tr>
       <td align="center">
@@ -62,9 +62,9 @@
 
 <h2 align="left">Github Stats and Most Used Languages</h2>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=milenacamargo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1&custom_title=Milena's%20GitHub%20Stats" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milenacamargo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="170" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milenacamargo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Milena's%20GitHub%20Stats" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milenacamargo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
