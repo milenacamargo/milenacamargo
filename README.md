@@ -49,8 +49,8 @@
           <h4 align="left">Tools & Frameworks</h4>
           <img aling ="center" alt= "Milena-IntelliJ" height="50" widht="75" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
           <img aling ="center" alt= "Milena-VScode" height="50" widht="75" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+	  <img aling ="center" alt= "Milena-NodeJS" height="50" widht="75" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
           <img aling ="center" alt= "Milena-Spring" height="50" widht="75" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-          <img aling ="center" alt= "Milena-Flask" height="50" widht="75" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
         <div align="left">
           </td>
       </tr>
